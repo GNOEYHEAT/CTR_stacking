@@ -10,6 +10,8 @@ cd CTR_stacking
 ```
 ## 1.2 Install packages
 ```
+conda create -n clicking python==3.9
+conda activate clickling
 pip install -r requirements.txt 
 ```
 ## 1.3 Directory Structure
