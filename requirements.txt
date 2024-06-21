@@ -6,3 +6,6 @@ pyarrow==16.1.0
 plotly==5.22.0
 category_encoders
 tqdm==4.66.4
+xgboost==2.0.3
+lightgbm==4.3.0
+catboost==1.2.5
