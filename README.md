@@ -1,6 +1,6 @@
 # CTR_stacking
 
-The following codes are the solutions **(6st place, private score: 0.78882)** for the dacon competition.
+The following codes are the solutions **(5st place, private score: 0.78882)** for the dacon competition.
 
 # 1. Environmental settings
 ## 1.1 Clone this repository
